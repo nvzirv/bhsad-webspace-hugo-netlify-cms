@@ -27,3 +27,4 @@ function rotate() {
 // setTimeout(function() {rotate()}, 3000);
 
 document.addEventListener('mousemove', rotate);
+}
